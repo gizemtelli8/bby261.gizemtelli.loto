@@ -29,7 +29,7 @@
         
     <!-- Açılış Ekranı ve İkon -->
      
-    <icon src="icon.png" />
+    <icon src="icon1.jpg" />
     <gap:splash src="splash.png" />
     <preference name="splash-screen-duration" value="2000"/>
         
